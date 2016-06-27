@@ -1,2 +1,3 @@
 # JNotePad
-java notepad 
+javac -d . NotePad.java
+java myclass.NotePad
